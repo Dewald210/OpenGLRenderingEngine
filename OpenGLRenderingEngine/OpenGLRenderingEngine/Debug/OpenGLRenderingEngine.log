@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\dewal\OneDrive\Desktop\GADE3B\OpenGLRenderingEngine\OpenGLRenderingEngine\src\Shader.h(32,30): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\dewal\OneDrive\Desktop\GADE3B\OpenGLRenderingEngine\OpenGLRenderingEngine\src\Shader.h(33,30): warning C4129: 'S': unrecognized character escape sequence
+  OpenGLRenderingEngine.vcxproj -> C:\Users\dewal\OneDrive\Desktop\GADE3B\OpenGLRenderingEngine\Debug\OpenGLRenderingEngine.exe
